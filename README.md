@@ -59,6 +59,7 @@ There are a variety of packages which may not be available in Maven repositories
   * `EMAIL` - your email address for the Debian changelog (default: it-ops@plos.org)
   * `DIST` - the distribution you are building for (default: trusty)
 * `make deb`
+* commit updated changelog to git
  
 
 # How does the OxGarage work:
