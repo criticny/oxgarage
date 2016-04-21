@@ -55,9 +55,9 @@ There are a variety of packages which may not be available in Maven repositories
 
 * edit VERSION to match the version string for the package
 * optionally set environment variables:
-** `NAME` - your full name for use in the Debian changelog (default: "PLOS Ops")
-** `EMAIL` - your email address for the Debian changelog (default: it-ops@plos.org)
-** `DIST` - the distribution you are building for (default: trusty)
+  * `NAME` - your full name for use in the Debian changelog (default: "PLOS Ops")
+  * `EMAIL` - your email address for the Debian changelog (default: it-ops@plos.org)
+  * `DIST` - the distribution you are building for (default: trusty)
 * `make deb`
  
 
